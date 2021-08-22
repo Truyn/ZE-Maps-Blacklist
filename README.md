@@ -5,4 +5,3 @@ Maps that don't work on our ZE server for whatever reason
 - zm_deception - force sets round limit to 30 mins (please dont do this mappers)
 - ze_shaurma_v3_b07_t5_hdr2 - hits the entity limit (ED_Alloc: no free edicts)
 - ze_japans_3rd_bombing_v8 - hits the entity limit (ED_Alloc: no free edicts)
-- ze_blood_castle_b7 - https://forums.ghostcap.com/topic/389-bug-server-crash-on-map-ze_blood_castle_b7/ - spawn stacking humans seems to crash on occasion. possible need a spawn point plugin?
