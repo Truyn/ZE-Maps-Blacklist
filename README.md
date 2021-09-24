@@ -10,3 +10,5 @@ Maps that don't work on our ZE server for whatever reason
 - ze_30_seconds__b22 - nuke bug
 - ze_blood_castle_b7 - https://forums.ghostcap.com/topic/389-bug-server-crash-on-map-ze_blood_castle_b7/
 - ze_sky_fantasy_v2_t5 - https://forums.ghostcap.com/topic/420-map-problem-players-crash-after-map-loaded-on-ze_sky_fantasy_v2_t5/ zm item causes clients to crash from the map
+- ze_aepp_nano_grid2_v1h - Model opacity glitching
+- ze_minecraft_universe_v1_5 - issues with massive player lag after Riptide update
