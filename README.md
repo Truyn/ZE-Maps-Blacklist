@@ -12,3 +12,4 @@ Maps that don't work or degrade the player experience on our ZE server for whate
 - ze_sky_fantasy_v2_t5 - https://forums.ghostcap.com/topic/420-map-problem-players-crash-after-map-loaded-on-ze_sky_fantasy_v2_t5/ zm item causes clients to crash from the map
 - ze_aepp_nano_grid2_v1h - Model opacity glitching
 - ze_minecraft_universe_v1_5 - issues with massive player lag after Riptide update
+- ze_danmaku_v1_5 - https://forums.ghostcap.com/topic/641-bug-ze_danmaku_v1_5/
