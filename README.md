@@ -13,3 +13,4 @@ Maps that don't work or degrade the player experience on our ZE server for whate
 - ze_aepp_nano_grid2_v1h - Model opacity glitching
 - ze_minecraft_universe_v1_5 - issues with massive player lag after Riptide update
 - ze_danmaku_v1_5 - https://forums.ghostcap.com/topic/641-bug-ze_danmaku_v1_5/
+- ze_Pirates_Port_Royal_v5_6 - https://forums.ghostcap.com/topic/650-bug-mass-client-crash-ze_pirates_port_royal_v5_6/
