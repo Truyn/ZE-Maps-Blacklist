@@ -9,7 +9,6 @@ Maps that don't work or degrade the player experience on our ZE server for whate
 - ze_japans_3rd_bombing_v8 - hits the entity limit (ED_Alloc: no free edicts)
 - ze_mabinogi_f4_1 - https://crash.limetech.org/ydosle52tt2a
 - ze_minecraft_universe_v1_5 - issues with massive player lag after Riptide update
-- ze_Pirates_Port_Royal_v5_6 - https://forums.ghostcap.com/topic/650-bug-mass-client-crash-ze_pirates_port_royal_v5_6/
 - ze_raccoon_facility_v6b_p
 - ze_raintime1_torontoisland_v5x - Crashes spawn stacking, could be related to noblock
 - ze_shaurma_v3_b07_t5_hdr2 - hits the entity limit (ED_Alloc: no free edicts)
